@@ -1,0 +1,137 @@
+{
+  "project_info": {
+    "project_number": "784136586253",
+    "firebase_url": "https://hrmapp-1573814872457.firebaseio.com",
+    "project_id": "hrmapp-1573814872457",
+    "storage_bucket": "hrmapp-1573814872457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784136586253:android:ca2c2b26403767f6228144",
+        "android_client_info": {
+          "package_name": "com.in30days.ezerp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784136586253-hpce4sh5o2ae322ccourv03i416qfl4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.in30days.ezerp",
+            "certificate_hash": "f7d5205352eed423132cb4d9a43d4f0dd07f2586"
+          }
+        },
+        {
+          "client_id": "784136586253-64j7f89oh9ms0h0a9etdvddagnktmatg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlF-Y_zzISXvaEXL-gyW38di7uZ5zV1XA"
+        },
+        {
+          "current_key": "AIzaSyB_8I9yftphPleqH30xkfQPxcQ3jmx8FcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784136586253-64j7f89oh9ms0h0a9etdvddagnktmatg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "784136586253-54aq4doi77pdqvub229qac8ohqjqdnos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.u30days.ezhrm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784136586253:android:715178f534239895228144",
+        "android_client_info": {
+          "package_name": "com.in30days.ezhrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784136586253-7ae1g4b55nd0e6mkurkgojsbpcpv0jd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.in30days.ezhrm",
+            "certificate_hash": "493e90a914fc972c6fd51d3910e344e35c0689cb"
+          }
+        },
+        {
+          "client_id": "784136586253-ie44tl7p3v8po3ipc3d91tjaof2j1o02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.in30days.ezhrm",
+            "certificate_hash": "436e9b3c373d763eab83ba152af452ebfc88f8de"
+          }
+        },
+        {
+          "client_id": "784136586253-na13b0hd5ulcb29h5lo6linvvc9ojc9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.in30days.ezhrm",
+            "certificate_hash": "400ee2fb78aa2ab31385eed95f0cfb5241a37adb"
+          }
+        },
+        {
+          "client_id": "784136586253-p1vbphqjoau35f3dp2in47h10ieiqigr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.in30days.ezhrm",
+            "certificate_hash": "1fd15b277c043463a3fe6050b4275931f022486c"
+          }
+        },
+        {
+          "client_id": "784136586253-q5p8adq2u9oq0o2tcrmcb2u1ruo2229q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.in30days.ezhrm",
+            "certificate_hash": "f7d5205352eed423132cb4d9a43d4f0dd07f2586"
+          }
+        },
+        {
+          "client_id": "784136586253-64j7f89oh9ms0h0a9etdvddagnktmatg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlF-Y_zzISXvaEXL-gyW38di7uZ5zV1XA"
+        },
+        {
+          "current_key": "AIzaSyB_8I9yftphPleqH30xkfQPxcQ3jmx8FcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784136586253-64j7f89oh9ms0h0a9etdvddagnktmatg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "784136586253-54aq4doi77pdqvub229qac8ohqjqdnos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.u30days.ezhrm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
