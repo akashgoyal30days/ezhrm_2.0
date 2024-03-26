@@ -76,7 +76,9 @@ class _RegisterNewCompanyState extends State<RegisterNewCompany> {
   Future<void> _register() async {
     if (!_initialized) {
       _firebaseMessaging.requestPermission();
-      mytoken = await _firebaseMessaging.getToken();
+      try {
+        mytoken = await _firebaseMessaging.getToken();
+      } catch (e) {}
       await SharedPreferencesInstance.setString('fbasetoken', mytoken);
       _initialized = true;
     }

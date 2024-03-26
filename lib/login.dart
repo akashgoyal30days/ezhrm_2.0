@@ -53,7 +53,7 @@ class _LoginState extends State<Login> with TickerProviderStateMixin {
       message = '',
       messagenew = '',
       messagenotp = '',
-      mytoken,
+      mytoken = "",
       location;
   bool visible = false,
       visiblem = false,
@@ -117,8 +117,9 @@ class _LoginState extends State<Login> with TickerProviderStateMixin {
   Future<void> _register() async {
     if (_initialized) return;
     _firebaseMessaging.requestPermission();
-
-    mytoken = await _firebaseMessaging.getToken();
+    try {
+      mytoken = await _firebaseMessaging.getToken();
+    } catch (e) {}
     await SharedPreferencesInstance.instance!.setString('fbasetoken', mytoken!);
     _initialized = true;
   }
